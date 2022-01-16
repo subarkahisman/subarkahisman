@@ -12,5 +12,5 @@
 	
   <br />
   <br />
-    👯 I’m looking to collaborate on interesting Kotlin projects if you need any help.
+    
 </div>
