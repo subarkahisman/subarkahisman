@@ -1,12 +1,20 @@
 <div align="center">
-<!--<h3>Welcome to My Programming Idea</h3> -->
+<h3>Isman Subarkah</h3>
   <br>
   <samp>
    <p>
-      I'm Ex a <strong>Software Engineer</strong> 
+      I'm Ex a <strong>Software Engineer</strong> in <a href="https://www.google.com/maps/d/embed?mid=1CZQU30NT8s-6K5Ko8VtaP-YVaRE&ie=UTF8&hl=en&t=h&msa=0&ll=-6.59162800000001%2C106.79328900000003&spn=0.059684%2C0.083256&z=13&output=embed">Bogor</a>
     </p>
     
-	
+    <p>
+    Part-time Geek & English Teacher 
+
+Daily Activities:
+	    
+* Tinkering in Javascript, Python, and PHP
+	    * Spending time with my family.
+* Teach English Course in Elementary School.
+	</p>
   <br />
 
 </div>
@@ -23,14 +31,10 @@
 
 **Main Frameworks & Tools**
 
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"></code>
 
 **Databases**
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code>
+
