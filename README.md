@@ -8,7 +8,7 @@
     
     <p>
     Part-time Geek & English Teacher 
-
+	  </p>
 Daily Activities:
 	    
 * Tinkering in Javascript, Python, and PHP
