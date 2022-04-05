@@ -31,8 +31,11 @@ Daily Activities:
 **Databases**
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"></code>
-
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"></code>
+	
 **contact me at:**
 
 * [Email](mailto:ismansubarkah.2210@gmail.com)
 * [Instagram](https://instagram.com/subarkahisman)
+* [Linkedin](https://www.linkedin.com/in/isman-subarkah-80190720b/)
