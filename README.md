@@ -10,7 +10,7 @@
     
 Daily Activities:
 	    
-* Tinkering in Javascript, Python, and PHP,
+* Tinkering in Java, Javascript, Python, and PHP,
 * Spending time with my family, and
 * Teach English Course in Elementary School.
 ****
@@ -20,9 +20,17 @@ Daily Activities:
 **Main Languanges**
 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
-        <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+</a>
+<a href="https://www.python.org/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/python.png"/>
+ </a>
+ <a href="https://www.python.org/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/php.png"/>
+ </a>
 
 **Main Frameworks & Tools**
 
