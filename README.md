@@ -34,9 +34,8 @@ Daily Activities:
 
 **Main Frameworks & Tools**
 
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg"></code>
-<code>![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/43cc73eb-b8e4-441b-8e30-5656605bb70d)
-</code>
+<code>![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/c41accce-8fc4-48e0-b1b7-c480bf1ff82d)</code>
+<code>![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/42b7c754-bfde-40f8-9c39-8fbfdacfa17b)</code>
 
 **Databases**
 
