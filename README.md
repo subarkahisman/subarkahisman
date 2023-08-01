@@ -34,7 +34,7 @@ Daily Activities:
 
 **Main Frameworks & Tools**
 
-<code><div width="40px" height="40px" >![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/c41accce-8fc4-48e0-b1b7-c480bf1ff82d)</div></code>
+<code><div style="width:'40px', height:'40px'" >![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/c41accce-8fc4-48e0-b1b7-c480bf1ff82d)</div></code>
 <code><div width="40px" height="40px" >![image](https://github.com/subarkahisman/subarkahisman/assets/87149207/42b7c754-bfde-40f8-9c39-8fbfdacfa17b)</div></code>
 
 **Databases**
