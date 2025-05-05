@@ -10,12 +10,12 @@
     
 Daily Activities:
 	    
-* Tinkering in Java, Javascript, Python, and PHP,
+* Tinkering in Java, Javascript, and Python,
 * Spending time with my family, coding at night, and
-* Teach English Course in Elementary School.
+* Teach English and Computer Course in Elementary School.
 ****
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=efriandika&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=subarkahisman&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 **Main Languanges**
 
@@ -28,15 +28,10 @@ Daily Activities:
 <a href="https://www.python.org/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/python.png"/>
  </a>
- <a href="https://www.python.org/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/php.png"/>
- </a>
 
 **Main Frameworks & Tools**
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg"></code>
@@ -45,7 +40,6 @@ Daily Activities:
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code>
 
