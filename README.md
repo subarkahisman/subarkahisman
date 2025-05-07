@@ -13,45 +13,47 @@ Daily Activities:
 * Tinkering in Java, Javascript, and Python,
 * Spending time with my family, coding at night, and
 * Teach English and Computer Course in Elementary School.
-****
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=subarkahisman&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+****
 
 **Main Languanges**
 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </a>
 <a href="https://www.python.org/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
  </a>
 
 **Main Frameworks & Tools**
 
-<code><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></code>
-<code><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/></code>
-<code><img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/></code>
-<code><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/></code>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/></a>
 
 
 **Databases**
 
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"></code>
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
 
- <div align="center">
-<a href="https://github.com/subarkahisman">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subarkahisman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subarkahisman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subarkahisman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subarkahisman&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subarkahisman&theme=2077" height="180em" />
+
+<div align="center">
+	<a href="https://github.com/subarkahisman">
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subarkahisman&theme=2077" height="180em" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subarkahisman&theme=2077" height="180em" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subarkahisman&theme=2077" height="180em" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subarkahisman&theme=2077" height="180em" />
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subarkahisman&theme=2077" height="180em" />
+	</a>
 </div>
 	
 **contact me at:**
