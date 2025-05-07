@@ -44,6 +44,11 @@ Daily Activities:
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
+
+**DevOps Tools**
+
+<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo"/></a>
 
 
 <div align="center">
