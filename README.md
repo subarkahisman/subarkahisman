@@ -44,7 +44,15 @@ Daily Activities:
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"></code>
 
- 
+ <div align="center">
+<a href="https://github.com/subarkahisman">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-bouali&theme=2077" height="180em" />
+</div>
+	
 **contact me at:**
 
 * [Email](mailto:ismansubarkah.2210@gmail.com)
