@@ -32,7 +32,7 @@ Daily Activities:
 **Main Frameworks & Tools**
 
 
-<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg"></code>
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/expressjs.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"></code>
