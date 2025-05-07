@@ -3,7 +3,7 @@
   <br>
   <samp>
    <p>
-      I'm a Ex <strong>Software Engineer</strong> in <a href="https://www.google.com/maps/d/embed?mid=1CZQU30NT8s-6K5Ko8VtaP-YVaRE&ie=UTF8&hl=en&t=h&msa=0&ll=-6.59162800000001%2C106.79328900000003&spn=0.059684%2C0.083256&z=13&output=embed">Bogor</a> and Part-time Geek & English Teacher
+      I'm a Ex <strong>Software Engineer</strong> in <a href="https://www.google.com/maps/d/embed?mid=1CZQU30NT8s-6K5Ko8VtaP-YVaRE&ie=UTF8&hl=en&t=h&msa=0&ll=-6.59162800000001%2C106.79328900000003&spn=0.059684%2C0.083256&z=13&output=embed">Bogor</a> and Part-time Geek & English and Computer Teacher
     </p>
 
 </div>
@@ -31,6 +31,8 @@ Daily Activities:
 
 **Main Frameworks & Tools**
 
+
+<code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg"></code>
