@@ -32,7 +32,6 @@ Daily Activities:
 
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/></a>
-<a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/></a>
 <a href="#"><img width="24" height="24" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/></a>
