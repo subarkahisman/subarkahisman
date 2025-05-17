@@ -65,4 +65,4 @@ Daily Activities:
 
 * [Email](mailto:ismansubarkah.2210@gmail.com)
 * [Instagram](https://instagram.com/subarkahisman)
-* [Linkedin](https://www.linkedin.com/in/isman-subarkah-80190720b/)
+* [Linkedin](https://www.linkedin.com/in/ismansubarkah/)
